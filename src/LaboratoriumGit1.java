@@ -16,6 +16,8 @@ public class LaboratoriumGit1 {
 
         System.out.println("Wersja Testowa");
 
+
+
     }
 
 }
